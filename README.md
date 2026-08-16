@@ -2,6 +2,8 @@
 
 I build small, testable Python automation, data-cleanup, API-QA, and website-quality tools through SirYakStudios.
 
+Visit the [SirYakStudios service site](https://jamiemorgan1052-beep.github.io/) for fixed scope, pricing, delivery boundaries, and verified examples.
+
 ## Portfolio projects
 
 - [Auditable CSV Data Cleaner](https://github.com/jamiemorgan1052-beep/csv-data-cleaner) — normalization, required-field validation, deduplication, date cleanup, and rejection auditing.
