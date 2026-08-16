@@ -13,7 +13,7 @@ Each repository includes documentation, synthetic fixtures, and automated tests.
 
 ## Work with me
 
-My current services and case studies are available on [Contra](https://contra.com/jamie_saayman_tx9ru37k).
+Book my fixed-scope [Python Automation, Data Cleanup & QA service](https://contra.com/s/mXUk6X3o-python-automation-data-cleanup-and-qa) from USD 75, or review my [Contra profile and case studies](https://contra.com/jamie_saayman_tx9ru37k).
 
 ## Development disclosure
 
